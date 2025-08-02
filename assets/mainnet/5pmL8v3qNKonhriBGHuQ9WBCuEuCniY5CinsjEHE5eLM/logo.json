@@ -1,0 +1,12 @@
+{
+  "name": "FROGZILLA",
+  "symbol": "FROGZ",
+  "decimals": 9,
+  "description": "Solana’s wildest meme coin. The $FROGZILLA Army is taking over the pond! Community first, holders eat.",
+  "image": "logo.png",
+  "socials": {
+    "twitter": "https://twitter.com/Frogzilla_OG",
+    "telegram": "https://t.me/frogzillaofficial"
+  },
+  "website": "https://frogzilla.netlify.app"
+}
